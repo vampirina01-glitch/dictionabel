@@ -1,0 +1,16 @@
+DICTIONABEL — DOSSIER À ENVOYER SUR GITHUB
+==========================================
+
+Ce dossier contient tout le dictionnaire :
+
+  index.html              le dictionnaire entier (définitions, traductions,
+                          conjugaisons, 544 151 mots, photos, 72 planches)
+  manifest.webmanifest    pour installer l'application sur le téléphone
+  sw.js                   pour que tout marche sans internet
+  icons/                  l'icône du lion
+
+COMMENT L'ENVOYER : suivez les 6 étapes du fichier GITHUB.md
+(tout se fait dans le navigateur, sans rien installer sur l'ordinateur).
+
+Astuce : vous pouvez ouvrir index.html en double-cliquant dessus,
+pour vérifier le dictionnaire avant de l'envoyer.
